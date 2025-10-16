@@ -48,7 +48,7 @@ Export employee list to CSV/Excel
 Backend integration with a database
 
 ## clone the repository ##
-Git clone : ""
+Git clone : "https://github.com/rabarna246-del/Employee-Directory-with-search"
 deployment link : "http://127.0.0.1:5500/index.html"
 
 
