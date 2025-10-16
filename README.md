@@ -47,5 +47,10 @@ Export employee list to CSV/Excel
 
 Backend integration with a database
 
+## clone the repository ##
+Git clone : ""
+deployment link : "http://127.0.0.1:5500/index.html"
+
+
 
 
